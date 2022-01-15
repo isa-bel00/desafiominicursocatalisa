@@ -1,7 +1,7 @@
 body {
     background-image: linear-gradient(
         180deg,        
-        #ADFF2F 7%, 
+        #ADFF2F 5%, 
         #00FFFF 20%,  
         #008B8B 60%, 
         #000000 95%
@@ -32,14 +32,21 @@ main > section button {
     border-radius: 5px;
     color: #FFFFFF;
     font-family: Copperplate, Papyrus, fantasy;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 500;
-    letter-spacing: 1.2px;
+    letter-spacing: 1.5px;
     line-height: 20px;
-    text-transform: uppercase;
     padding: 9px 23px;
+    text-transform: uppercase;
+}
 
-
+#detalhes-container{
+    background-color: ;
+    font-weight: bold;
+    list-style-type: none;
+    height: 30px;
+    width: 90%;
 
 
 }
+    

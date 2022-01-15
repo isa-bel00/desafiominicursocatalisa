@@ -32,21 +32,18 @@ main > section button {
     border-radius: 5px;
     color: #FFFFFF;
     font-family: Copperplate, Papyrus, fantasy;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 500;
     letter-spacing: 1.5px;
-    line-height: 20px;
+    line-height: 15px;
     padding: 9px 23px;
     text-transform: uppercase;
 }
 
 #detalhes-container{
-    background-color: ;
     font-weight: bold;
     list-style-type: none;
-    height: 30px;
     width: 90%;
-
-
+    
 }
     

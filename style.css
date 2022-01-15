@@ -1,11 +1,20 @@
 body {
     background-image: linear-gradient(
         180deg,
-        #688A8A 5%,
-        #00FFFF 20%
-        #008B8B 60%
-        #031f1f 95%        
+        #A0FF2F 5%,
+        #00FFFF 20%,
+        #008B8B 60%,
+        #000000 95%        
     );
     margin: 0;
+    min-height: 100vh;
     width: 100%;
+}
+
+main{
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    position: relative;
 }

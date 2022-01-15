@@ -1,10 +1,11 @@
 body {
     background-image: linear-gradient(
-        180deg,
-        #A0FF2F 5%,
-        #00FFFF 20%,
-        #008B8B 60%,
-        #000000 95%        
+        180deg,        
+        #ADFF2F 7%, 
+        #00FFFF 20%,  
+        #008B8B 60%, 
+        #000000 95%
+        
     );
     margin: 0;
     min-height: 100vh;
@@ -23,4 +24,22 @@ main > section img {
     height: 450px;
     margin: 15px 0;
     width: 300px;
+}
+
+main > section button {
+    background-color: #008B8B;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1.2px;
+    line-height: 20px;
+    text-transform: uppercase;
+    padding: 9px 23px;
+
+
+
+
 }

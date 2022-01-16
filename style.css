@@ -3,9 +3,8 @@ body {
         180deg,        
         #ADFF2F 5%, 
         #00FFFF 20%,  
-        #008B8B 60%, 
-        #00FFFF 80%,
-        #ADFF2F 95%        
+        #008B8B 50%, 
+        #000000 95%            
     );
     margin: 0;
     min-height: 100vh;
@@ -17,6 +16,12 @@ main{
     display: flex;
     justify-content: center;
     position: relative;
+}
+
+main > section {
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }
 
 main > section img {

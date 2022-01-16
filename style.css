@@ -4,7 +4,8 @@ body {
         #ADFF2F 5%, 
         #00FFFF 20%,  
         #008B8B 60%, 
-        #000000 95%        
+        #00FFFF 80%,
+        #ADFF2F 95%        
     );
     margin: 0;
     min-height: 100vh;
@@ -14,7 +15,6 @@ body {
 main{
     align-items: center;
     display: flex;
-    height: 100vh;
     justify-content: center;
     position: relative;
 }
